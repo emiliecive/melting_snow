@@ -7,5 +7,6 @@ module_mp_thompson.F to be used with WRF v4.0.3
 
 Iversen, E.C., Thompson, G., and Nygaard, B.E. (2021). Improvements to melting snow behavior in a bulk microphysics scheme, Atm. Res.,
 253, 105471.
+
 Thompson, G. and Eidhammer, T. (2014). A study of aerosol impacts on clouds and precipitation development in a large winter cyclone
 J. Atmos. Sci., 71, pp. 3636-3658.
