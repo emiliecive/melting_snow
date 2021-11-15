@@ -3,7 +3,7 @@
 A modified version of the Thompson and Eidhammer (aerosol aware) microphysics sceme (Thompson & Eidhammer, 2014) to account for melting snow.
 Described in Iversen et al. (2021).
 
-module_mp_thompson.F, compatible with WRF v4.0.3 
+module_mp_thompson.F, compatible with WRF v4.1.2
 
 ### cite the code: [![DOI](https://zenodo.org/badge/426696845.svg)](https://zenodo.org/badge/latestdoi/426696845)
 
