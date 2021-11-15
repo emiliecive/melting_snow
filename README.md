@@ -1,4 +1,4 @@
-# melting_snow
+# Thompson and Eidhammer aerosol aware microphysics scheme with modifications to account for melting snow
 
 A modified version of the Thompson and Eidhammer (aerosol aware) microphysics sceme (Thompson & Eidhammer, 2014) to account for melting snow.
 Described in Iversen et al. (2021).
