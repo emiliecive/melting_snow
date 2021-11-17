@@ -5,7 +5,6 @@ Described in Iversen et al. (2021).
 
 module_mp_thompson.F, compatible with WRF v4.1.2
 
-### cite the code: [![DOI](https://zenodo.org/badge/426696845.svg)](https://zenodo.org/badge/latestdoi/426696845)
 
 Iversen, E.C., Thompson, G., and Nygaard, B.E. (2021). Improvements to melting snow behavior in a bulk microphysics scheme, Atm. Res.,
 253, 105471.
